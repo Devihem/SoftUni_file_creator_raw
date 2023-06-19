@@ -1,4 +1,6 @@
-# raw scripts
+# raw scripts , nothing spcecial , only for text extraxt and file creating  / softuni courses
+Tested on Windows  for Linux or Mac you must change the slashes for dir
+
 
 1 - Place the file in the folder of your current course.
 
