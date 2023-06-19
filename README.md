@@ -1,7 +1,6 @@
 ## created to work , not to look good
  
- raw scripts , nothing spcecial , only for text extraxt and file creating  / softuni courses
-Tested on Windows  for Linux or Mac you must change the slashes for dir
+ raw scripts , nothing spcecial , only for text extraxt and file creating  / softuni courses judge
 
 ## !!! Most important , copy the exact same line of text  and use it only for Judge !!!
 
@@ -14,5 +13,7 @@ Tested on Windows  for Linux or Mac you must change the slashes for dir
 4 - Copy all task names from Judge
 
 5 - Make a coffee
+
+( for linux change the file creationg metod  , switch in file )
 
 ![](file_creator.gif)
