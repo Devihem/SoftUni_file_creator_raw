@@ -1,4 +1,6 @@
-# raw scripts , nothing spcecial , only for text extraxt and file creating  / softuni courses
+# created to work , not to look good
+ 
+ raw scripts , nothing spcecial , only for text extraxt and file creating  / softuni courses
 Tested on Windows  for Linux or Mac you must change the slashes for dir
 
 
