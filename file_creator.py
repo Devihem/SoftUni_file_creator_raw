@@ -23,6 +23,10 @@ for task in math:
     task = task.lower()
     task = task.replace(" ", "_")
     task = task.replace(",", "_")
-
+    
+    # For LINUX
+    # with open(f"{location_name}/{final_folder_name}/{task}.py", 'w') as new_file:
+    
+    # For WINDOWS
     with open(f"{location_name}\\{final_folder_name}\\{task}.py", 'w') as new_file:
         new_file.write("")
