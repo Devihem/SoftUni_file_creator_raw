@@ -3,7 +3,7 @@
  raw scripts , nothing spcecial , only for text extraxt and file creating  / softuni courses
 Tested on Windows  for Linux or Mac you must change the slashes for dir
 
-## !!! Most important , copy the exact same line of text !!!
+## !!! Most important , copy the exact same line of text  and use it only for Judge !!!
 
 1 - Place the file in the folder of your current course.
 
