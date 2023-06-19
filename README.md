@@ -9,3 +9,5 @@
 4 - Copy all task names from Judge
 
 5 - Make a coffee
+
+![](file_creator.gif)
