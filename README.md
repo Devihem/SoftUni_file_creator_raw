@@ -1,6 +1,4 @@
-## created to work , not to look good
- 
- raw scripts , nothing spcecial , only for text extraxt and file creating  / softuni courses judge
+raw scripts , nothing spcecial , only for text reformat and file creating  / softuni courses , judge 
 
 ## !!! Most important , copy the exact same line of text  and use it only for Judge !!!
 
