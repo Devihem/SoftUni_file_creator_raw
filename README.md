@@ -1,4 +1,4 @@
-raw scripts , nothing spcecial , only for text reformat and file creating  / softuni courses , judge 
+templorary repo for fundtamental and andvance python_softuni , raw scripts , nothing spcecial , only for text reformat and file creating  / softuni courses , judge 
 
 ## !!! Most important , copy the exact same line of text  and use it only for Judge !!!
 
