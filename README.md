@@ -1,6 +1,10 @@
-templorary repo for fundtamental and andvance python_softuni , raw scripts , nothing spcecial , only for text reformat and file creating  / softuni courses , judge 
+###  Summaray
+Softuni courses have alot of daily task and this require to create new files frequently. The script use regex and filters to sort the separete names of the tasks. After that it is create new files with this names in curretn location of the program.
 
-## !!! Most important , copy the exact same line of text  and use it only for Judge !!!
+The script is desing for  Python Courses  in Softuni and help you to to not waste some times creating new files. The script is "raw" and is not mentinoten to be perfect.
+
+
+ ### ! Important , follow the steps correctly !
 
 1 - Place the file in the folder of your current course.
 
